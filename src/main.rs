@@ -1,3 +1,5 @@
+use wgpu_0::run;
+
 fn main() {
-    println!("Hello, world!");
+    run();
 }
